@@ -1,0 +1,56 @@
+Algorithm1
+Task [vehicleId=7, instructions=188.0, totalInputData=0.4729726197119043] aft: 1.8590744040535738
+Task [vehicleId=1, instructions=158.0, totalInputData=0.26987062496821346] aft: 3.4214879989496625
+Task [vehicleId=3, instructions=135.0, totalInputData=0.49078091672134383] aft: 4.756461640158346
+任务完成失败个数：1
+任务平均完成时间：3.3456746810538607
+任务总执行时间10.037024043161582
+程序运行时间: 11.0
+Algorithm2
+任务失败个数（本地）：0
+Task [vehicleId=0, instructions=175.0, totalInputData=0.3463908203712797] aft: 0.6242504886467665
+Task [vehicleId=6, instructions=45.0, totalInputData=0.37190499128426346] aft: 0.7847720428702207
+Task [vehicleId=9, instructions=173.0, totalInputData=0.3986611884614396] aft: 1.4018882402181672
+任务完成失败个数：0
+# 任务平均完成时间：0.9369702572450515
+任务平均完成时间：4.6067609197128885
+任务总完成时间：27.725347688255436
+程序运行时间: 1.0
+Algorithm3
+Task [vehicleId=1, instructions=158.0, totalInputData=0.26987062496821346] aft: 1.5624135948960887
+Task [vehicleId=2, instructions=48.0, totalInputData=0.24775861794528029] aft: 2.037070889548065
+Task [vehicleId=0, instructions=175.0, totalInputData=0.3463908203712797] aft: 3.7675922763000615
+Task [vehicleId=8, instructions=214.0, totalInputData=0.4420193578291256] aft: 5.883772714956789
+Task [vehicleId=5, instructions=71.0, totalInputData=0.29948969168158235] aft: 6.585869963296171
+Task [vehicleId=3, instructions=135.0, totalInputData=0.49078091672134383] aft: 7.920843604504854
+Task [vehicleId=7, instructions=188.0, totalInputData=0.4729726197119043] aft: 9.779918008558427
+Task [vehicleId=4, instructions=150.0, totalInputData=0.2301882793721602] aft: 11.263222054345853
+Task [vehicleId=6, instructions=45.0, totalInputData=0.37190499128426346] aft: 11.70821326808208
+Task [vehicleId=9, instructions=173.0, totalInputData=0.3986611884614396] aft: 13.41895726755691
+任务完成失败个数：6
+任务平均完成时间：7.39278736420453
+任务总执行时间73.9278736420453
+程序运行时间: 1.0
+Algorithm4
+任务平均完成时间：6.062191964950806
+总任务数：6, 失败任务数：3
+程序运行时间: 0.0
+RPD: 0.0
+RPD: 37.69
+RPD: 120.97
+RPD: 81.19
+
+Result [Algorithm=Algorithm1, RPD=0.0, ME=null, ST=null, RTS=null, averageTaskNumber=1, deviceNumber=61, makespan=0.0, meanCompletionTime=7.524816756543026, runtime=5.0]
+Result [Algorithm=Random, RPD=38.01, ME=null, ST=null, RTS=null, averageTaskNumber=1, deviceNumber=61, makespan=0.0, meanCompletionTime=10.384695629465316, runtime=0.0]
+Result [Algorithm=OnlyEdge, RPD=84.85, ME=null, ST=null, RTS=null, averageTaskNumber=1, deviceNumber=61, makespan=0.0, meanCompletionTime=13.909718688401803, runtime=2.0]
+Result [Algorithm=OnlyLocal, RPD=17.88, ME=null, ST=null, RTS=null, averageTaskNumber=1, deviceNumber=61, makespan=0.0, meanCompletionTime=8.869882119852274, runtime=0.0]
+
+Result [Algorithm=Algorithm1, RPD=0.0, ME=null, ST=null, RTS=null, averageTaskNumber=1, deviceNumber=30, makespan=0.0, meanCompletionTime=2.359424123073329, runtime=9.0]
+Result [Algorithm=Random, RPD=266.34, ME=null, ST=null, RTS=null, averageTaskNumber=1, deviceNumber=30, makespan=0.0, meanCompletionTime=8.643502227277102, runtime=0.0]
+Result [Algorithm=OnlyEdge, RPD=185.31, ME=null, ST=null, RTS=null, averageTaskNumber=1, deviceNumber=30, makespan=0.0, meanCompletionTime=6.731602938393382, runtime=1.0]
+Result [Algorithm=OnlyLocal, RPD=241.0, ME=null, ST=null, RTS=null, averageTaskNumber=1, deviceNumber=30, makespan=0.0, meanCompletionTime=8.045720078481326, runtime=0.0]
+
+Result [Algorithm=Algorithm1, RPD=13.04, ME=null, ST=null, RTS=null, averageTaskNumber=1, deviceNumber=39, makespan=0.0, meanCompletionTime=9.312031876227332, runtime=10.0]
+Result [Algorithm=Random, RPD=33.31, ME=null, ST=null, RTS=null, averageTaskNumber=1, deviceNumber=39, makespan=0.0, meanCompletionTime=10.981898760401918, runtime=0.0]
+Result [Algorithm=OnlyEdge, RPD=114.39, ME=null, ST=null, RTS=null, averageTaskNumber=1, deviceNumber=39, makespan=0.0, meanCompletionTime=17.66166450643606, runtime=1.0]
+Result [Algorithm=OnlyLocal, RPD=0.0, ME=null, ST=null, RTS=null, averageTaskNumber=1, deviceNumber=39, makespan=0.0, meanCompletionTime=8.238013050366067, runtime=1.0]
